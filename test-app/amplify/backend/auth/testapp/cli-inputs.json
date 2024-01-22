@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "testapp_identitypool_2c78c589",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "testapp",
+    "sharedId": "2c78c589",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}
